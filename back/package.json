@@ -106,7 +106,7 @@
     "ioredis": "^5.4.1",
     "jose": "^4.14.4",
     "jose-openid-client": "npm:jose@^2.0.5",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "luxon": "^3.4.2",
     "mongoose": "^8.0.0",
     "nodemailer": "^6.9.8",
