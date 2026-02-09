@@ -20,7 +20,7 @@
     "npm": "DO-NOT-USE-NPM"
   },
   "dependencies": {
-    "@badeball/cypress-cucumber-preprocessor": "20.1.0",
+    "@badeball/cypress-cucumber-preprocessor": "24.0.0",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.3",
     "@elastic/elasticsearch": "^7.17.14",
     "@simonsmith/cypress-image-snapshot": "^9.1.0",
